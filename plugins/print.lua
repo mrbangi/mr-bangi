@@ -26,7 +26,7 @@ return {
   },
   patterns = {
     "^[!/@#$&][Pp]rint (.+)$",
-    "^([Pp]rint (.+)$"
+    "^[Pp]rint (.+)$"
   },
   run = run
 }
