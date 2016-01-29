@@ -137,6 +137,7 @@ do
     },
     patterns = {
       "^!info$",
+      "^([Ii]nfo)",
       "^!info (chat) (.*)$",
 	  "^!info (chat) (.*)$",
       "^!info (.*)$"
