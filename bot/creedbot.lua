@@ -240,6 +240,7 @@ function create_config( )
     "leave_ban",
     "mr",
     "bang",
+    "print",
     },
     sudo_users = {164059631},--Sudo users
     disabled_channels = {},
